@@ -1,5 +1,5 @@
 "use strict";
-
+// tetst
 var exec = require("child_process").exec;
 
 var APP_JS_FILES = ["app/assets/js/**/*.js", "config/**/*.js", "app/data/**/*.js",
