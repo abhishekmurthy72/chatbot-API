@@ -111,6 +111,7 @@ module.exports = function(grunt) {
                 ifFalse: ["npm-install:chromedriver@^2.21.2", "mochaTest:security"]
             }
         },
+        //test
         mochaTest: {
             options: {
                 reporter: "spec"
