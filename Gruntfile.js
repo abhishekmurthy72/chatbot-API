@@ -11,6 +11,9 @@ var SUPPORT_JS_FILES = ["Gruntfile.js", "artifacts/**/*.js", "test/**/*.js"];
 var JS_FILES = APP_JS_FILES.concat(SUPPORT_JS_FILES);
 
 
+
+
+
 module.exports = function(grunt) {
     // Project Configuration
     grunt.initConfig({
