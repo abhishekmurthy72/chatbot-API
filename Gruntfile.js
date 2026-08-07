@@ -7,7 +7,7 @@ var APP_JS_FILES = ["app/assets/js/**/*.js", "config/**/*.js", "app/data/**/*.js
 ];
 
 var SUPPORT_JS_FILES = ["Gruntfile.js", "artifacts/**/*.js", "test/**/*.js"];
-
+//edit
 var JS_FILES = APP_JS_FILES.concat(SUPPORT_JS_FILES);
 
 
