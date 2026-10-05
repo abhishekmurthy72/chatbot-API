@@ -10,6 +10,7 @@ node_js:
   - v12
 
 ## Missing dependency for Cypress https://github.com/cypress-io/cypress/issues/4069
+##
 addons:
   apt:
     packages:
