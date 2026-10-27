@@ -7,5 +7,5 @@ on:
 
 jobs:
   scan:
-    uses: abhishekmurthy72/Terraform_project-1/.github/workflows/shared-workflows/.github/workflows/checkmarx.yml@v1
+    uses: abhishekmurthy72/Terraform_project-1/.github/workflows/shared-workflows/checkmarx.yml@v1
     secrets: inherit
