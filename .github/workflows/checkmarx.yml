@@ -10,4 +10,4 @@ jobs:
     uses: abhishekmurthy72/Terraform_project-1/.github/workflows/checkmarx-global.yml@Terraform-project-1
     secrets: inherit
     with:
-          additional_params: --scan-types sast --threshold "sast-high=0" --sast-preset-name "ASA Premium"
+          additional_params: --scan-types sast --threshold "sast-high=1" --sast-preset-name "ASA Premium"
