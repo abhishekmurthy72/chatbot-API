@@ -11,7 +11,8 @@
 #     secrets: inherit
 #     with:
 #           additional_params: --scan-types sast --threshold "sast-high=1" --sast-preset-name "ASA Premium"
-
+#
+#
 
 name: Checkmarx Scan with Resolver
 
