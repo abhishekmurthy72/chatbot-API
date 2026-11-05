@@ -24,7 +24,7 @@ jobs:
   scan:
     uses: abhishekmurthy72/Terraform_project-1/.github/workflows/checkmarx-global-sca.yml@Terraform-project-1
     secrets: inherit
-    with:
-      pr_decoration: false
+    # with:
+    #   pr_decoration: false
 
 
